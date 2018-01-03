@@ -1,0 +1,9 @@
+C:\Users\Daniel\ComputerScience\CSharp\RApi\bin\MCD\Debug\netcoreapp1.1\Starter.deps.json
+C:\Users\Daniel\ComputerScience\CSharp\RApi\bin\MCD\Debug\netcoreapp1.1\Starter.runtimeconfig.json
+C:\Users\Daniel\ComputerScience\CSharp\RApi\bin\MCD\Debug\netcoreapp1.1\Starter.runtimeconfig.dev.json
+C:\Users\Daniel\ComputerScience\CSharp\RApi\bin\MCD\Debug\netcoreapp1.1\Starter.dll
+C:\Users\Daniel\ComputerScience\CSharp\RApi\bin\MCD\Debug\netcoreapp1.1\Starter.pdb
+C:\Users\Daniel\ComputerScience\CSharp\RApi\obj\MCD\Debug\netcoreapp1.1\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\ComputerScience\CSharp\RApi\obj\MCD\Debug\netcoreapp1.1\Starter.AssemblyInfo.cs
+C:\Users\Daniel\ComputerScience\CSharp\RApi\obj\MCD\Debug\netcoreapp1.1\Starter.dll
+C:\Users\Daniel\ComputerScience\CSharp\RApi\obj\MCD\Debug\netcoreapp1.1\Starter.pdb
